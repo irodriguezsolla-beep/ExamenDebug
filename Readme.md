@@ -36,9 +36,11 @@ Se evalúan las condiciones n <= 0 y n == 1, ambas falsas
 ![Foto3](Foto3.png)
 
 aux=2
+
 2. Si estuvieras dentro de la función `calcular_siguiente` y quisieras salir rápidamente sin ejecutar el resto de las líneas, volviendo al punto de llamada en `funcion_bucle`, ¿qué función del debugger deberías usar?
 
 Step Out
+
 4. ¿Qué diferencia fundamental existe entre usar *Step Over* y *Step Into* en la línea `siguiente_numero = calcular_siguiente(serie)`?
 La diferencia fundamental entre Step Over y Step Into se relaciona con si entras o no dentro de la función que se está llamando.
 ---
