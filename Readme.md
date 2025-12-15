@@ -13,12 +13,15 @@
 - Coloca un punto de interrupción **normal** en la línea donde se inicializa la lista de la serie: `serie = [0, 1]`. 
 - Inicia el modo *Debug*.
 
-![Foto2](1foto.png)
+![Foto2](Foto2.png)
 **Pregunta**
 
 1. Si la función es llamada con `n=10`, ¿cuál es el valor de la variable `n` que se visualiza en la ventana de variables del debugger justo antes de que se ejecute la línea `serie = [0, 1]`?
 
-n = 1000
+n=10
+, n recibe el valor 10.
+Se evalúan las condiciones n <= 0 y n == 1, ambas falsas
+. Entonces entra en el bloque else
 ---
 ### Apartado 2
 
