@@ -53,5 +53,7 @@ La diferencia fundamental entre Step Over y Step Into se relaciona con si entras
 **Pregunta**
 
 1. Cuando el *Breakpoint Condicional* se activa por **primera vez** (la primera vez que `siguiente_numero` es mayor que 20000), ¿qué longitud tiene `serie`?
+![Foto4](Foto4.png)
 
+la serie tiene una longitud de 28657
 ---
